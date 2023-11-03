@@ -1,2 +1,4 @@
-package pavlov24;public class B {
+package pavlov24;
+
+public class B {
 }
